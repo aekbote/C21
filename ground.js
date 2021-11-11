@@ -1,4 +1,4 @@
-class Ground 
+class ground 
 {
   constructor(x, y, w, h) 
   {
