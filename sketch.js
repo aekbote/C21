@@ -49,7 +49,7 @@ function draw() {
  
 }
 
-function keyPressed{
+function keyPressed(){
 if(keyCode == UP_ARROW){
 Matter.Body.applyForce(ball);
 }
